@@ -1,7 +1,7 @@
 import pygame
 
 import colours as c
-from pieces import Bishop, Horse, King, Pawn, Queen, Rook
+from chesspieces import Bishop, Horse, King, Pawn, Queen, Rook
 
 
 
